@@ -1,0 +1,32 @@
+CustomerID,CompanyName
+BERGS,Berglunds snabbköp
+BLONP,Blondesddsl père et fils
+BOTTM,Bottom-Dollar Markets
+CHOPS,Chop-suey Chinese
+WANDK,Die Wandernde Kuh
+DUMON,Du monde entier
+EASTC,Eastern Connection
+GODOS,Godos Cocina Típica
+GREAL,Great Lakes Food Market
+HILAA,HILARION-Abastos
+HUNGO,Hungry Owl All-Night Grocers
+LINOD,LINO-Delicateses
+LAMAI,La maison d'Asie
+LEHMS,Lehmanns Marktstand
+LONEP,Lonesome Pine Restaurant
+MEREP,Mère Paillarde
+NORTS,North/South
+PERIC,Pericles Comidas clásicas
+PRINI,Princesa Isabel Vinhos
+QUICK,QUICK-Stop
+QUEEN,Queen Cozinha
+RATTC,Rattlesnake Canyon Grocery
+SAVEA,Save-a-lot Markets
+SEVES,Seven Seas Imports
+SUPRD,Suprêmes délices
+THECR,The Cracker Box
+TORTU,Tortuga Restaurante
+WARTH,Wartian Herkku
+WELLI,Wellington Importadora
+WILMK,Wilman Kala
+WOLZA,Wolski  Zajazd
