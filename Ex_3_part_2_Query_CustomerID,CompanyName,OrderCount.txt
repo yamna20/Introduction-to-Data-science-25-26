@@ -1,0 +1,9 @@
+-- SQLite
+SELECT c.CustomerID,
+       c.CompanyName,
+       COUNT(o.OrderID) AS OrderCount
+FROM Customers c
+LEFT JOIN Orders o
+  ON o.CustomerID = c.CustomerID
+GROUP BY c.CustomerID, c.CompanyName
+ORDER BY OrderCount DESC, c.CompanyName;

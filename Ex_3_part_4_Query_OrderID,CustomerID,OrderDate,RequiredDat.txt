@@ -1,0 +1,9 @@
+-- SQLite
+SELECT OrderID,
+       CustomerID,
+       OrderDate,
+       RequiredDate,
+       ShippedDate
+FROM Orders
+WHERE ShippedDate IS NULL
+ORDER BY OrderDate;

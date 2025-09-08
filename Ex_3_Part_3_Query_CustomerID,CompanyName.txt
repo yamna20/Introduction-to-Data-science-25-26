@@ -1,0 +1,12 @@
+-- SQLite
+SELECT DISTINCT c.CustomerID,
+                c.CompanyName
+FROM Customers c
+JOIN Orders o
+  ON o.CustomerID = c.CustomerID
+JOIN OrderDetails od
+  ON od.OrderID = o.OrderID
+JOIN Products p
+  ON p.ProductID = od.ProductID
+WHERE p.ProductName = 'Chai'
+ORDER BY c.CompanyName;
